@@ -1,0 +1,977 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Dexxter \u2013 Photography & Portfolio Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.baliniz.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Portfolio",
+            "screenshot": "screenshots\/single-portfolio.jpg",
+            "source": "templates\/single-portfolio.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/single-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit - Off Canvas",
+            "screenshot": "screenshots\/jkit-off-canvas.jpg",
+            "source": "templates\/jkit-off-canvas.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/jkit-off-canvas\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/dexxter\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Qi Addons For Elementor",
+            "version": "1.5.8",
+            "file": "qi-addons-for-elementor\/class-qiaddonsforelementor.php",
+            "author": "Qode Interactive"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.12.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "noise.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/noise.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 49751,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9KMDPU"
+        },
+        {
+            "filename": "elips.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/elips.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3556,
+            "dimensions": [
+                347,
+                73
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/kit.baliniz.com\/dexxter\/"
+        },
+        {
+            "filename": "review-EB45RVP.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/review-EB45RVP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 36079,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EB45RVP"
+        },
+        {
+            "filename": "review-4ZDFMBD.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/review-4ZDFMBD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 43618,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4ZDFMBD"
+        },
+        {
+            "filename": "review-B3X9P3L.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/review-B3X9P3L.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 30132,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B3X9P3L"
+        },
+        {
+            "filename": "review-8PQRL95.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/review-8PQRL95.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 118662,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8PQRL95"
+        },
+        {
+            "filename": "rear-view-of-videographer-with-assistant-and-model-working-in-photo-studio-e1681811307701.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/rear-view-of-videographer-with-assistant-and-model-working-in-photo-studio-e1681811307701-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 211008,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XLFK92K"
+        },
+        {
+            "filename": "hero-photographer-73HH8BJ.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/hero-photographer-73HH8BJ.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 266702,
+            "dimensions": [
+                700,
+                1063
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-73HH8BJ"
+        },
+        {
+            "filename": "professional-photographer-and-beautiful-model-on-fashion-shoot-in-photo-studio-with-lighting-e1681811231589.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/professional-photographer-and-beautiful-model-on-fashion-shoot-in-photo-studio-with-lighting-e1681811231589-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 147971,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GAF9USB"
+        },
+        {
+            "filename": "trendy-lady-with-pink-sunglasses-posing-outside-short-haired-girl-in-beige-jacket-jeans-and-t-shi-e1681811066278.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/trendy-lady-with-pink-sunglasses-posing-outside-short-haired-girl-in-beige-jacket-jeans-and-t-shi-e1681811066278-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 192379,
+            "dimensions": [
+                1600,
+                1066
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QC6X53F"
+        },
+        {
+            "filename": "confident-young-black-male-millennial-on-a-beige-coat-e1681811082122.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/confident-young-black-male-millennial-on-a-beige-coat-e1681811082122-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 149276,
+            "dimensions": [
+                1600,
+                1066
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZRTQVPF"
+        },
+        {
+            "filename": "partner-inspire.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/partner-inspire.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2752,
+            "dimensions": [
+                390,
+                162
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "partner-nextmove.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/partner-nextmove.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6324,
+            "dimensions": [
+                566,
+                162
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "partner-sitemarkk.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/partner-sitemarkk.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6280,
+            "dimensions": [
+                482,
+                162
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logotouse.com\/"
+        },
+        {
+            "filename": "attractive-blonde-woman-with-red-lips-in-colorful-sunglasses-dressed-in-beige-trench-coat-sits-on-w.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/attractive-blonde-woman-with-red-lips-in-colorful-sunglasses-dressed-in-beige-trench-coat-sits-on-w-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 251517,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GKFLWR3"
+        },
+        {
+            "filename": "musician-walking-onto-the-stage-e1681833223824.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/musician-walking-onto-the-stage-e1681833223824-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 130230,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WDBBHA8"
+        },
+        {
+            "filename": "bassist-playing-on-stage-e1681833211363.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/bassist-playing-on-stage-e1681833211363-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 195451,
+            "dimensions": [
+                1600,
+                1066
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6ZH9U98"
+        },
+        {
+            "filename": "beautiful-bride-and-groom-at-sunset-in-green-nature--e1681811156964.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/beautiful-bride-and-groom-at-sunset-in-green-nature--e1681811156964-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 217582,
+            "dimensions": [
+                1600,
+                1066
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSP7T5E"
+        },
+        {
+            "filename": "fashion-pose.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/fashion-pose-800x986.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 140954,
+            "dimensions": [
+                1622,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TARGLBQ"
+        },
+        {
+            "filename": "concert-crowd-on-a-music-concert-e1681811248356.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/concert-crowd-on-a-music-concert-e1681811248356-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 199695,
+            "dimensions": [
+                1800,
+                1198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FZ86HDU"
+        },
+        {
+            "filename": "model-in-the-helmet-minimal-art-fashion--e1681811125895.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/model-in-the-helmet-minimal-art-fashion--e1681811125895-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 139015,
+            "dimensions": [
+                1920,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5XHJWL"
+        },
+        {
+            "filename": "stylish-girl-in-undershirt-and-pink-sunglasses-smiles-on-yellow-background-trendy-woman-with-red-l-e1681811194280.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/stylish-girl-in-undershirt-and-pink-sunglasses-smiles-on-yellow-background-trendy-woman-with-red-l-e1681811194280-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 204241,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TAKTH87"
+        },
+        {
+            "filename": "selective-focus-of-cameraman-filming-beautiful-model-in-photo-studio-with-spotlights-e1681811297841.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/selective-focus-of-cameraman-filming-beautiful-model-in-photo-studio-with-spotlights-e1681811297841-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 218840,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6X3JF9"
+        },
+        {
+            "filename": "photographer-49XPYFG.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/photographer-49XPYFG-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 145773,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-49XPYFG"
+        },
+        {
+            "filename": "photographer-AFE2PVN.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/photographer-AFE2PVN-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 150695,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AFE2PVN"
+        },
+        {
+            "filename": "photographer-HKHXN8Z.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/photographer-HKHXN8Z-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 141870,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HKHXN8Z"
+        },
+        {
+            "filename": "screen-of-video-camera-with-part-of-face-of-fashion-model-applying-mascara-e1681811266932.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/screen-of-video-camera-with-part-of-face-of-fashion-model-applying-mascara-e1681811266932-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 187532,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L7EQVKU"
+        },
+        {
+            "filename": "product-photography-shoot-of-shoes-e1681811053704.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/product-photography-shoot-of-shoes-e1681811053704-800x561.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 172949,
+            "dimensions": [
+                1920,
+                1346
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U2JSKNK"
+        },
+        {
+            "filename": "close-up-of-photography-studio-equipment-and-technology-e1681833185412.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/close-up-of-photography-studio-equipment-and-technology-e1681833185412-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 200041,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DCDEAJN"
+        },
+        {
+            "filename": "professional-photographer-and-beautiful-model-on-fashion-shoot-in-photo-studio-e1681811220824.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/professional-photographer-and-beautiful-model-on-fashion-shoot-in-photo-studio-e1681811220824-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 146009,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3WU82A5"
+        },
+        {
+            "filename": "family-throwing-rose-petals-at-the-newly-wed-bride-and-groom-e1681811343545.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/family-throwing-rose-petals-at-the-newly-wed-bride-and-groom-e1681811343545-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 279617,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JZJME5C"
+        },
+        {
+            "filename": "model-in-a-motorcycle-helmet-minimal-art--e1681811136325.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/model-in-a-motorcycle-helmet-minimal-art--e1681811136325-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 92324,
+            "dimensions": [
+                1600,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZA6YNX"
+        },
+        {
+            "filename": "logo-dexxter.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/dexxter\/wp-content\/uploads\/sites\/56\/2023\/04\/logo-dexxter.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-off-canvas.json",
+                    "name": "JKit - Off Canvas"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8571,
+            "dimensions": [
+                669,
+                174
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/dark-logo-photographers_1126550.htm"
+        }
+    ]
+}
